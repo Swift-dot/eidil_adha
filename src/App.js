@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import Header from './Header';
 import Footer from './Footer';
 import Count from './Count_Down/Count';
 
@@ -56,7 +55,6 @@ useEffect(() =>{
       {/* <Header />
       <Content />
       <Footer /> */}
-      <Header />
       <Count 
       timerDays={timerDays} 
       timerHours={timerHours} 
