@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/eidil_adha/static/css/main.bedffc4d.css",
+    "main.js": "/eidil_adha/static/js/main.deb43de9.js",
+    "static/media/Eid_Aldha_Background.jpg": "/eidil_adha/static/media/Eid_Aldha_Background.5b692491b0a12b6f1b72.jpg",
+    "static/media/typo.png": "/eidil_adha/static/media/typo.a1723c54a14ad10b85d3.png",
+    "static/media/whatsapp.png": "/eidil_adha/static/media/whatsapp.94b287df16ac2662336e.png",
+    "index.html": "/eidil_adha/index.html",
+    "main.bedffc4d.css.map": "/eidil_adha/static/css/main.bedffc4d.css.map",
+    "main.deb43de9.js.map": "/eidil_adha/static/js/main.deb43de9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bedffc4d.css",
+    "static/js/main.deb43de9.js"
+  ]
+}
