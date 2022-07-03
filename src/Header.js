@@ -12,7 +12,7 @@ const Header = () => {
           
            </a>
             <ReactWhatsapp number="2347026779219" message="Hello World">
-            <img src={images.whatsapp} /> 
+             
               </ReactWhatsapp>
     </header>
    
